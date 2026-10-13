@@ -1,0 +1,2 @@
+const message = "gvjdfcadhfdvb";
+console.log(message);
